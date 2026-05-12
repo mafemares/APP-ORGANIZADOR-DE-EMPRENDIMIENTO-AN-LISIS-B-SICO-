@@ -1,0 +1,6 @@
+{
+  "name": "GestoBalance",
+  "description": "Aplicación de registro de ingresos y gastos para pequeños negocios con cálculo automático de ganancias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
